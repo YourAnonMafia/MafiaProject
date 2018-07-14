@@ -28,6 +28,26 @@ The Mafia Project is a perfect option for beginers who want to get all the tools
 
 `` ls `` <= this comand will show you all the files in the project, take your pick!
 
+# Requirements
+
+*Not all of these are nessisary for every tool*
+
+- bash
+
+- python
+
+- ruby
+
+- root user
+
+- preferably a Linux distro
+
+- lynx 
+
+- git 
+
+- pip
+
 # Contents
 
 Here is a list of the tools contained in the Mafia Project
