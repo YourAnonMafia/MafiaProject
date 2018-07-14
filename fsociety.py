@@ -92,7 +92,7 @@ fsocietylogo = color_random[0] + '''
         88      db   8D `8b  d8' Y8b  d8   .88.   88.        88       88
         YP      `8888Y'  `Y88P'   `Y88P' Y888888P Y88888P    YP       YP
         '''
-fsocietyPrompt = "fsociety ~# "
+fsocietyPrompt = "fsociety@MafiaProject ~# "
 alreadyInstalled = "Already Installed"
 continuePrompt = "\nClick [Return] to continue"
 
