@@ -17,3 +17,7 @@ print "\033[33m   Run the command ls when in the MafiaProject directory to see a
 print "\n"
 print "\033[36m  ###########################################################################\e[0m\n"
 print "\n"
+
+}
+
+banner
