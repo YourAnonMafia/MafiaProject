@@ -30,5 +30,59 @@ The Mafia Project is a perfect option for beginers who want to get all the tools
 
 # Contents
 
-Here is a list of the 
+Here is a list of the tools contained in the Mafia Project
+
+**sqlmap**
+Scaning and Exploiting SQL injection vulnrabilities 
+
+```python sqlmap.py```
+
+**Fsociety**
+Hacker Framework
+
+```fsociety```
+
+**Metaspoloit Framework**
+Penertation Testing Framework
+
+```msfconsole```
+
+**Operative Framework**
+Fingerprinting framework
+
+*Currently unavailable through the Mafia Project*
+Get here -> https://github.com/graniet/operative-framework
+
+**PAVELOW**
+Exploit Toolbox
+
+```bash pavelow.sh```
+
+**The Doc**
+sqlmap automator
+
+``bash thedoc.sh``
+
+**InfoG**
+Recon toolkit
+
+```bash infog.sh```
+
+**The Don**
+Layer-7 DOS Script
+
+```python thedonpy```
+
+**Samurai**
+Email Gathering Tool
+
+```bash samurai.sh```
+
+
+
+
+
+
+
+
 
