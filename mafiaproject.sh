@@ -20,12 +20,12 @@ printf "${CYAN}        /  l/  /___ _/ __l_l___ _   / __ \_________    l_l__  ___
 printf "${CYAN}       / /l_/ / __ `/ /_/ / __ `/  / /_/ / ___/ __ \  / / _ \/ ___/ __/     ${RESET}"
 printf "${CYAN}      / /  / / /_/ / __/ / /_/ /  / ____/ /  / /_/ / / /  __/ /__/ /_       ${RESET}"
 printf "${CYAN}     /_/  /_/\__,_/_/ /_/\__,_/  /_/   /_/   \____/_/ /\___/\___/\__/       ${RESET}"
-printf "${CYAN}                                                 /___/                                                                     
-printf "${RED}      Compiled ${RESET} by the ${RED} Anon Mafa ${RESET}"
+printf "${CYAN}                                                 /___/                      ${RESET}"                                               
+printf "${RED}      Compiled ${RESET} by the ${RED} Anon Mafa                              ${RESET}"
+printf "${CYAN}                                                                            ${RESET}"
+printf "${YELLOW}   Run the command ls when to see available tools                         ${RESET}"
 printf "\n"
-printf "${YELLOW}   Run the command ls when in the MafiaProject directory to see available tools ${RESET}"
-printf "\n"
-printf "${CYAN}  ########################################################################### ${RESET}"
+printf "${CYAN} ########################################################################### ${RESET}"
 
 
 }
