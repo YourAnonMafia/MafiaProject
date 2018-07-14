@@ -2,8 +2,7 @@
 # The Mafia Project
 
 banner() {
-printf "\n"
-printf "\n               The
+printf "\033[36m              The      
 printf "\033[36m         __  ___      _____          ____               _           __ \e[0m\n"
 printf "\033[36m        /  |/  /___ _/ __|_|___ _   / __ \_________    |_|__  _____/ /_    \e[0m\n"
 printf "\033[36m       / /|_/ / __ `/ /_/ / __ `/  / /_/ / ___/ __ \  / / _ \/ ___/ __/ \e[0m\n"
@@ -16,7 +15,7 @@ printf "\033[36m       .::.:::  .::  .::     .::      \e[0m\e[1;93m.:::::    \e[
 printf "\033[33m   Run the command ls when in the MafiaProject directory to see available tools \e[0m\n"
 printf "\n"
 printf "\033[36m  ###########################################################################\e[0m\n"
-printf "\n"
+
 
 }
 
