@@ -98,6 +98,17 @@ Email Gathering Tool
 
 ```bash samurai.sh```
 
+**Nikto**
+Web Vulnrability Scanner 
+
+```perl nikto.pl```
+
+**Katoolin**
+Installer for all Kali Linux Tools on other Linux Distros
+
+```katoolin```
+
+
 
 
 
